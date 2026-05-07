@@ -5,4 +5,5 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_peridot.mk
+    $(LOCAL_DIR)/lineage_peridot.mk \
+    $(LOCAL_DIR)/xperience_peridot.mk
